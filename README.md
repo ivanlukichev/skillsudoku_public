@@ -71,6 +71,15 @@ Start here: [SkillSudoku Guide](https://skillsudoku.com/guide/)
 - UX goal: instant play, mobile comfort, no reload gameplay
 - SEO goal: clean structure, unique pages, internal linking, article clusters
 
+## More Projects
+
+| Project | Live site | Public repo |
+| --- | --- | --- |
+| CalcSprint | [calcsprint.com](https://calcsprint.com/) | [CalcSprint](https://github.com/ivanlukichev/CalcSprint) |
+| Number Hunt | [numberhuntgame.com](https://numberhuntgame.com/) | [numberhuntgame](https://github.com/ivanlukichev/numberhuntgame) |
+| PlayMathPuzzles | [playmathpuzzles.com](https://playmathpuzzles.com/) | [PlayMathPuzzles](https://github.com/ivanlukichev/PlayMathPuzzles) |
+| Sudoku Play | [sudoku-play.org](https://sudoku-play.org/) | [Sudoku-Play](https://github.com/ivanlukichev/Sudoku-Play) |
+
 ## Visit
 
 <p>
