@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillsudoku.com/">
-    <img src="https://skillsudoku.com/assets/images/og-sudoku.jpg" alt="SkillSudoku preview" width="900">
+    <img src="assets/preview.jpg" alt="SkillSudoku preview" width="900">
   </a>
 </p>
 
